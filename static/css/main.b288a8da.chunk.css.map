@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEC,4BAGC,YAAa","file":"main.b288a8da.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.hidden-reset-button {\n  display: none;\n}\n"]}
